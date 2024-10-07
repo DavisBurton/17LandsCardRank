@@ -1,6 +1,6 @@
 # 17LandsCardRank
 
-Adds a rank column to the 17lands card data page.
+Unofficial user script that adds a rank column to the 17lands card data page. Not affiliated with 17lands in any way.
 
 ## Requirements
 
@@ -9,5 +9,5 @@ This is a user script for the [Tampermonkey chrome extension](https://chromewebs
 ## Installation
 
 * Make sure you have the Tampermonkey chrome extension
-* Visit the [raw page](https://github.com/DavisBurton/17LandsCardRank/raw/refs/heads/main/17Lands%20Card%20Ranks.user.js) for the 17 lands user script
+* Visit the [raw page](https://github.com/DavisBurton/17LandsCardRank/raw/refs/heads/main/17Lands%20Card%20Ranks.user.js) for the 17lands card rank user script
 * Click `Install`
