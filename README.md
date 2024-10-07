@@ -1,6 +1,6 @@
 # 17LandsCardRank
 
-Unofficial user script that adds a rank column to the 17lands card data page. Not affiliated with 17lands in any way.
+Unofficial user script that prepends numeric rank to card names on the [17lands card data page](https://www.17lands.com/card_data). Not affiliated with 17lands in any way.
 
 ## Requirements
 
